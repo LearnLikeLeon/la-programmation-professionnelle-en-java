@@ -1,0 +1,44 @@
+--> En résumé :
+
+    - Les opérateurs arithmétiques : Ce sont ceux que l'on apprend à l'école primaire. 
+
+        -> l'opérateur ' + ' : permet d'additionner deux variables numériques (mais aussi de concaténer des chaînes de caractères ).
+
+        -> l'opérateur ' - ' : permet de soustraire deux variables numériques.
+
+        -> l'opérateur ' * ' : permet de multiplier deux variables numériques.
+
+        -> l'opérateur ' / ' : permet de diviser deux variables numériques.
+
+        -> l'opérateur ' % ' : permet de renvoyer le reste de la division entière de deux variables de type numérique. Cet opérateur s'appelle le modulo.
+
+    - Les opérateurs de comparaison : Ce sont ceux que l'on utilise pour évaluer ou comparer des variables.
+
+        -> l'opérateur d' egalité sans verifier le type de la variable ' == ' 
+
+        -> l'opérateur d' egalité tout en verifiant le type de la variable ' === ' 
+
+        -> l'opérateur de difference ' != ' : permet de dire qu'une variable est differente de l'autre.
+
+        -> l'opérateur Strictement plus petit que ' < '
+
+        -> l'opérateur plus petit que ou égal à ' <= '
+
+        -> l'opérateur Strictement plus grand que ' > '
+
+        -> l'opérateur plus grand que ou égal à ' >= '
+
+    - Le langage Java contient deux opérateurs qui permettent d'incrémenter et de décrémenter les variables de 1. 
+    Ces opérateurs sont : ' ++ '  et ' -- ' . Ils sont placés soit avant soit après la variable dont on veut changer la valeur .
+
+        int i = 0; ++i; i++; --i; i--;
+
+
+    - Lorsqu'on place l'opérateur d'incrémentation avant la variable (++i), elle est incrémentée avant usage.
+     Mais quand l'opérateur est placé après (i++), la variable est incrémentée après son utilisation.
+
+
+    - Lien externe : https://armel-ndjobo.developpez.com/tutoriels/java/chap4-operateurs/
+
+    
+    -

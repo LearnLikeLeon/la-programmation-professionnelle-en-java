@@ -1,0 +1,16 @@
+--> En résumé :
+    - Java est un langage forcement typé. Nous devons toujours specifier le type de variable dans sa declaration.
+
+    - Le nomage de variables :
+
+        -> Pas de caractères spéciaux, pas d'espaces.
+
+        -> ca commence par une lettre ou un underscore " _ "
+
+        -> Ca s'ecrit en CamelCase ' uneVariable ' . ceci est plus utilisé en C++ et en Java .
+
+        -> Tandis que la syntaxe PascalCase s'ecrit ' UneVariable' qui est utilisée pour definir le nom d'une classe en Java.
+
+        -> Par ailleurs, nous avons aussi le snakeCase ' une_variable ' . ceci est plus utilisé en Python et en Microsoft.
+
+        Remarque : Voilà un peu les 3 convetions standard de nomage en programmation.

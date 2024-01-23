@@ -1,0 +1,5 @@
+--> En résumé :
+    - Vos noms de variables ne doivent contenir ni caractères accentués ni espaces et doivent, dans la mesure du possible, respecter la convention de nommage Java.
+    - Lorsque vous effectuez des opérations sur des variables, prenez garde à leur type : vous pourriez perdre en précision.
+    - Vous pouvez caster un résultat en ajoutant un type devant celui-ci : (int), (double), etc...
+    - Prenez garde aux priorités lorsque vous castez le résultat d'opérations, faute de quoi ce dernier risque d'être incorrect. 

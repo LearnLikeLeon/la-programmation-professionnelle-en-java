@@ -1,0 +1,25 @@
+--> How to install Java with Visual Studio Code (vscode) in under 5 minutes.
+
+    Youtube Link : https://www.youtube.com/watch?v=BB0gZFpukJU
+
+--> Download and Install Visual Studio Code: https://code.visualstudio.com/
+
+--> Change the display of single-child folders in the explorer view in VS Code : Basically uncheck ' Explorer : Compact Folders ' from VS Code Settings.
+
+    Link_1 : https://www.youtube.com/watch?v=orV5Am1-V74
+
+--> Install Java Coding Pack: https://code.visualstudio.com/docs/java/java-tutorial
+
+--> Open vscode, and create new file. Name it whatever you want, but be sure to include the '.java' extension. 
+
+Example : Create a file named ' Test.java ' and add the following code. Make sure the file name is exactly the same as the class name.
+
+class Test {
+    public static void main(String[] args) {
+        System.out.println("HELLO WORLD JAVA");
+    }
+}
+
+--> Simple click the run button and you should see the output "HELLO WORLD JAVA".
+
+--> You can also create a Java project by clicking ' Ctrl + Shift + P'  at the same time.  Or Type in the explorer search box ' >Java : Create Java Project ' , and click on the Java: Create Java Project. 
